@@ -1,0 +1,15 @@
+{
+  "extends": ["eslint:recommended", "react-app"],
+  "rules": {
+    "no-loop-func": "error",
+    "default-case": "error",
+    "array-callback-return": "error",
+    "no-undef": "error",
+    "no-use-before-define": "error",
+    "react/no-array-index-key": "off",
+    "react/style-prop-object": "error",
+    "no-console": "off",
+    "camelcase": "error",
+    "no-unused-vars": "error"
+  }
+}
